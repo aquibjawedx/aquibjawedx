@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I am Aquib Jawed
+I’m currently learning Data Structures and Algorithms 
 
 <!--
 **aquibjawedx/aquibjawedx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
