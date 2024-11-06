@@ -1,17 +1,28 @@
-### Hi there 👋 I am Aquib Jawed
-I’m currently learning Data Structures and Algorithms 
+# Hi there, I'm Aquib Jawed! 👋
 
-<!--
-**aquibjawedx/aquibjawedx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer with a keen interest in software development and open-source contributions.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: JavaScript, C++, Java
+- **Frameworks**: React, Node.js
+- **Tools**: Git
+- **Databases**: MySQL, MongoDB
+
+## 📈 GitHub Stats
+
+![Aquib's GitHub stats](https://github-readme-stats.vercel.app/api?username=aquibjawedx&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+
+- LinkedIn: [aquibxjawed](https://www.linkedin.com/in/aquibxjawed)
+- Email: [info.aquibjawed@gmail.com](mailto:info.aquibjawed@gmail.com)
+
+## 🌱 Currently Learning
+
+- Backend Development
+- React
+
+## ⚡ Fun fact
+
+I love exploring new technologies and am always on the lookout for exciting projects to contribute to!
